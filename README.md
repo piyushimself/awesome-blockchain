@@ -1,3 +1,9 @@
+![jpg_20220406_184322_0000](https://user-images.githubusercontent.com/94240494/161983407-44e643dc-6284-47ad-8e57-2b656a2be499.jpg)
+
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NandanLohitaksh) [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lohitakshnandan) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lohitakshnandan)
+
+</div>
+
 # Awesome Blockchain
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/yjjnls/awesome-blockchain)
@@ -773,16 +779,3 @@ Key enhancements over go-ethereum:
     +   [Zapper](https://zapper.fi/): dashboard for viewing and managing your DeFi investments.
     +   [Furucombo](https://furucombo.app/): easily create flashloans without writing a single line of code.
     +   [Covalent](https://www.covalenthq.com/): an unified API bringing visibility to billions of blockchain data points.
----
-## Contribute
-
-Contributions welcome!
-
-1.  Fork it (<https://github.com/yjjnls/awesome-blockchain/fork>)
-2.  Clone it (`git clone https://github.com/yjjnls/awesome-blockchain`)
-3.  Create your feature branch (`git checkout -b your_branch_name`)
-4.  Commit your changes (`git commit -m 'Description of a commit'`)
-5.  Push to the branch (`git push origin your_branch_name`)
-6.  Create a new Pull Request
-
-If you found this resource helpful, give it a 🌟 otherwise contribute to it and give it a ⭐️.
